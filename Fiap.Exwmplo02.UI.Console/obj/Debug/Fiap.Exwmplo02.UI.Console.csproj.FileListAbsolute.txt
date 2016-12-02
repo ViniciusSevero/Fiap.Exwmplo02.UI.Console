@@ -1,0 +1,10 @@
+D:\Fiap.Exwmplo02.UI.Console\Fiap.Exwmplo02.UI.Console\bin\Debug\Fiap.Exwmplo02.UI.Console.exe.config
+D:\Fiap.Exwmplo02.UI.Console\Fiap.Exwmplo02.UI.Console\bin\Debug\Fiap.Exwmplo02.UI.Console.exe
+D:\Fiap.Exwmplo02.UI.Console\Fiap.Exwmplo02.UI.Console\bin\Debug\Fiap.Exwmplo02.UI.Console.pdb
+D:\Fiap.Exwmplo02.UI.Console\Fiap.Exwmplo02.UI.Console\bin\Debug\Newtonsoft.Json.dll
+D:\Fiap.Exwmplo02.UI.Console\Fiap.Exwmplo02.UI.Console\bin\Debug\System.Net.Http.Formatting.dll
+D:\Fiap.Exwmplo02.UI.Console\Fiap.Exwmplo02.UI.Console\bin\Debug\Newtonsoft.Json.xml
+D:\Fiap.Exwmplo02.UI.Console\Fiap.Exwmplo02.UI.Console\bin\Debug\System.Net.Http.Formatting.xml
+D:\Fiap.Exwmplo02.UI.Console\Fiap.Exwmplo02.UI.Console\obj\Debug\Fiap.Exwmplo02.UI.Console.csprojResolveAssemblyReference.cache
+D:\Fiap.Exwmplo02.UI.Console\Fiap.Exwmplo02.UI.Console\obj\Debug\Fiap.Exwmplo02.UI.Console.exe
+D:\Fiap.Exwmplo02.UI.Console\Fiap.Exwmplo02.UI.Console\obj\Debug\Fiap.Exwmplo02.UI.Console.pdb
